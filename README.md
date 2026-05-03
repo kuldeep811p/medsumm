@@ -44,53 +44,53 @@ MedSumm converts any medical document (photo, PDF, or voice note) into a standar
 
 ## How MedSumm Works (Flow)
 ┌─────────────────────────────────────────────────────────────┐
-│ STEP 1: UPLOAD │
+│ STEP 1: UPLOAD                                              │
 ├─────────────────────────────────────────────────────────────┤
-│ │
-│ 📷 Photo 📄 PDF 🎤 Voice Note │
-│ (Camera) (File) (Hindi/English) │
-│ │
+│                                                             │
+│ 📷 Photo 📄 PDF 🎤 Voice Note                              │
+│ (Camera) (File) (Hindi/English)                             │
+│                                                             │
 └─────────────────────────┬───────────────────────────────────┘
-↓
+                          ↓
 ┌─────────────────────────────────────────────────────────────┐
-│ STEP 2: AI PROCESSES │
+│ STEP 2: AI PROCESSES                                        │
 ├─────────────────────────────────────────────────────────────┤
-│ │
-│ OCR extracts text from images/PDFs │
-│ Whisper transcribes voice notes │
-│ GPT-4 identifies: │
-│ • Medicines • Allergies • Symptoms │
-│ • Test results • Past conditions • Critical values │
-│ │
+│                                                             │
+│ OCR extracts text from images/PDFs                          │
+│ Whisper transcribes voice notes                             │
+│ GPT-4 identifies:                                           │
+│ • Medicines • Allergies • Symptoms                          │
+│ • Test results • Past conditions • Critical values          │
+│                                                             │
 └─────────────────────────┬───────────────────────────────────┘
-↓
+                          ↓
 ┌─────────────────────────────────────────────────────────────┐
-│ STEP 3: COLOR-CODED SUMMARY │
+│ STEP 3: COLOR-CODED SUMMARY                                 │
 ├─────────────────────────────────────────────────────────────┤
-│ │
-│ 🔴 RED ▸ Allergies & Critical Values (Danger) │
-│ 🟡 YELLOW ▸ Current Medications & Symptoms (Warning) │
-│ 🟢 GREEN ▸ Past History & Test Results (Normal) │
-│ │
+│                                                             │
+│ 🔴 RED ▸ Allergies & Critical Values (Danger)              │
+│ 🟡 YELLOW ▸ Current Medications & Symptoms (Warning)        │
+│ 🟢 GREEN ▸ Past History & Test Results (Normal)             │
+│                                                             │
 └─────────────────────────┬───────────────────────────────────┘
-↓
+                          ↓
 ┌─────────────────────────────────────────────────────────────┐
-│ STEP 4: SHARE WITH DOCTOR │
+│ STEP 4: SHARE WITH DOCTOR                                   │
 ├─────────────────────────────────────────────────────────────┤
-│ │
-│ 📱 WhatsApp 🖨️ Print 📧 Email │
-│ │
+│                                                             │
+│ 📱 WhatsApp 🖨️ Print 📧 Email                              │
+│                                                              │
 └─────────────────────────────────────────────────────────────┘
-↓
+                            ↓
 ┌─────────────────────────────────────────────────────────────┐
-│ FINAL RESULT │
+│ FINAL RESULT                                                │
 ├─────────────────────────────────────────────────────────────┤
-│ │
-│ ✅ Doctor reads complete history in 30 seconds │
-│ ✅ No more asking 20 questions │
-│ ✅ Allergies auto-flagged in RED │
-│ ✅ No repeat tests needed │
-│ │
+│                                                             │
+│ ✅ Doctor reads complete history in 30 seconds             │
+│ ✅ No more asking 20 questions                             │
+│ ✅ Allergies auto-flagged in RED                           │
+│ ✅ No repeat tests needed                                  │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 
 *Created by Kuldeep Parmar*
