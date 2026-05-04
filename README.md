@@ -3,6 +3,7 @@
 ### AI-Powered Personal Health Record Aggregator & Pre-Consultation Summary Tool
 
 Website link - (https://medsumm-kp.lovable.app/)
+Drive link - https://drive.google.com/drive/folders/1F6_6j8zt5bKmWb3T2rZA6sw9ctZxMe5n?usp=sharing
 
 ## Problem
 
