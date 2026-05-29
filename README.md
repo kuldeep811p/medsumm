@@ -44,4 +44,4 @@ MedSumm converts any medical document (photo, PDF, or voice note) into a standar
 - **LinkedIn:** [www.linkedin.com/in/kuldeep-parmar-066a04377]
 
 
-*Created by Kuldeep Parmar*
+*Created by Kuldeep Parmar & Nishchal Soni*
